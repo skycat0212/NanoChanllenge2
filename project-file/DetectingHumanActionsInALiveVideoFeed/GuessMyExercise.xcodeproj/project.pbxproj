@@ -459,7 +459,7 @@
 				CODE_SIGN_ENTITLEMENTS = GuessMyExercise/App/GuessMyExercise.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6XPJ277622;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GuessMyExercise/App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -486,7 +486,7 @@
 				CODE_SIGN_ENTITLEMENTS = GuessMyExercise/App/GuessMyExercise.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6XPJ277622;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GuessMyExercise/App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
